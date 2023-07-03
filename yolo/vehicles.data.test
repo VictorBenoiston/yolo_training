@@ -1,0 +1,4 @@
+classes = 6
+train = '/yolo_vehicle_detection_trained_nn/OIDv4_ToolKit/OID/Dataset/train'
+valid = '/yolo_vehicle_detection_trained_nn/OIDv4_ToolKit/OID/Dataset/test'
+names = '/yolo_vehicle_detection_trained_nn/yolo/classes.names'

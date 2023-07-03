@@ -1,0 +1,7 @@
+classes= 6
+train  = /Users/victoroliveira/Desktop/yolo_vehicle_detection_trained_nn/yolo/train.txt
+valid  = /Users/victoroliveira/Desktop/yolo_vehicle_detection_trained_nn/yolo/test.txt
+names = /Users/victoroliveira/Desktop/yolo_vehicle_detection_trained_nn/yolo/classes.names
+backup = /Users/victoroliveira/Desktop/yolo_vehicle_detection_trained_nn/yolo/backup
+
+
